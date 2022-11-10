@@ -1,1 +1,1 @@
-# Come-reveak-your-daily-horoscope-
+# Come-reveal-your-daily-horoscope-
