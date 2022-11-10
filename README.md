@@ -1,11 +1,3 @@
 # Come-reveal-your-daily-horoscope-
 -----
-- Join KSU IS GitHub
-- Set up README
-- Setup task list with check boxes 
-- Find a related repository 
-- Ensure that repository is public
-- Make sure team members have access to the repository
-- Test a respository 
-- Run the repository
-- Create URL's for Github profile and ensure one link has "ksu-is" and "commit"
+
